@@ -4,6 +4,7 @@ A repository containing stuff I want to save for either further reading or furth
 ## TOC
 001. Typography
 002. jQuery
+003. Layout
 
 ## Typography
 ### Resources
@@ -16,3 +17,7 @@ A repository containing stuff I want to save for either further reading or furth
 ## jQuery
 ### Plugins
 - [Typeset.js – an HTML pre-processor for web typography](https://blot.im/typeset/?utm_source=designernews)
+
+## Layout
+### Centering
+- [Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
