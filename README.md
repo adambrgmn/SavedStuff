@@ -5,6 +5,7 @@ A repository containing stuff I want to save for either further reading or furth
 001. Typography
 002. jQuery
 003. Layout
+004. WordPress
 
 ## Typography
 ### Resources
@@ -21,3 +22,7 @@ A repository containing stuff I want to save for either further reading or furth
 ## Layout
 ### Centering
 - [Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
+
+## WordPress
+### Tutorials
+- [My Tutorials On Building Themes With AngularJS and WP REST API](https://1fix.io/angularjs-wp-rest-api/)
