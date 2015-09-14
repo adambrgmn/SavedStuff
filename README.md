@@ -2,11 +2,11 @@
 A repository containing stuff I want to save for either further reading or further development.
 
 ## TOC
-001. Typography
-002. jQuery
-003. Layout
-004. WordPress
-005. Inspiration
+001. [Typography](https://github.com/adambrgmn/SavedStuff#typography)
+002. [jQuery](https://github.com/adambrgmn/SavedStuff#jquery)
+003. [Layout](https://github.com/adambrgmn/SavedStuff#layout)
+004. [WordPress](https://github.com/adambrgmn/SavedStuff#wordpress)
+005. [Inspiration](https://github.com/adambrgmn/SavedStuff#inspiration)
 
 ## Typography
 ### Resources
