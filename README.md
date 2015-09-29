@@ -5,12 +5,15 @@ A repository containing stuff I want to save for either further reading or furth
 001. [Typography](https://github.com/adambrgmn/SavedStuff#typography)
 002. [jQuery](https://github.com/adambrgmn/SavedStuff#jquery)
 003. [Layout](https://github.com/adambrgmn/SavedStuff#layout)
-004. [WordPress](https://github.com/adambrgmn/SavedStuff#wordpress)
-005. [Inspiration](https://github.com/adambrgmn/SavedStuff#inspiration)
+004. [Frameworks](https://github.com/adambrgmn/SavedStuff#frameworks)
+005. [WordPress](https://github.com/adambrgmn/SavedStuff#wordpress)
+006. [Inspiration](https://github.com/adambrgmn/SavedStuff#inspiration)
+007. [General Resources](https://github.com/adambrgmn/SavedStuff#general-resources)
 
 ## Typography
 ### Resources
 - [Typography on the web — Resources & References](https://typographyontheweb.com/)
+- [The Best Free Alternatives to the Most Popular Fonts](http://blog.spoongraphics.co.uk/articles/the-best-free-alternatives-to-the-most-popular-fonts)
 
 ### Typefaces
 - [Overpass Web Font](http://overpassfont.org/)
@@ -24,6 +27,10 @@ A repository containing stuff I want to save for either further reading or furth
 ## Layout
 ### Centering
 - [Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
+
+## Frameworks
+### Development
+- [MEAN - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js.](http://mean.io/#!/)
 
 
 ## WordPress
@@ -39,3 +46,4 @@ A repository containing stuff I want to save for either further reading or furth
 
 ## General resources
 - [Designer Mill](http://www.designermill.com)
+- [Stylesheets](https://stylesheets.co/)
