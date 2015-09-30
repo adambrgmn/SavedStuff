@@ -7,19 +7,11 @@ A repository containing stuff I want to save for either further reading or furth
 
 
 - [Typography](#typography)
-  - [Resources](#resources)
-  - [Typefaces](#typefaces)
 - [jQuery](#jquery)
-  - [Plugins](#plugins)
 - [Layout](#layout)
-  - [Centering](#centering)
 - [Frameworks](#frameworks)
-  - [Development](#development)
 - [WordPress](#wordpress)
-  - [Boilerplates](#boilerplates)
-  - [Tutorials](#tutorials)
 - [Sketch](#sketch)
-  - [Resources](#resources-1)
 - [Inspiration](#inspiration)
 - [General resources](#general-resources)
 
