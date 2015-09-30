@@ -7,8 +7,9 @@ A repository containing stuff I want to save for either further reading or furth
 003. [Layout](https://github.com/adambrgmn/SavedStuff#layout)
 004. [Frameworks](https://github.com/adambrgmn/SavedStuff#frameworks)
 005. [WordPress](https://github.com/adambrgmn/SavedStuff#wordpress)
-006. [Inspiration](https://github.com/adambrgmn/SavedStuff#inspiration)
-007. [General Resources](https://github.com/adambrgmn/SavedStuff#general-resources)
+006. [Sketch](https://github.com/adambrgmn/SavedStuff#sketch)
+007. [Inspiration](https://github.com/adambrgmn/SavedStuff#inspiration)
+008. [General Resources](https://github.com/adambrgmn/SavedStuff#general-resources)
 
 ## Typography
 ### Resources
@@ -39,6 +40,10 @@ A repository containing stuff I want to save for either further reading or furth
 
 ### Tutorials
 - [My Tutorials On Building Themes With AngularJS and WP REST API](https://1fix.io/angularjs-wp-rest-api/)
+
+## Sketch
+### Resources
+- [Sketch Repo - Free, high quality Sketch resources](http://sketchrepo.com/)
 
 
 ## Inspiration
