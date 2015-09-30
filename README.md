@@ -1,15 +1,28 @@
 # Saved stuff
 A repository containing stuff I want to save for either further reading or further development.
 
-## TOC
-001. [Typography](https://github.com/adambrgmn/SavedStuff#typography)
-002. [jQuery](https://github.com/adambrgmn/SavedStuff#jquery)
-003. [Layout](https://github.com/adambrgmn/SavedStuff#layout)
-004. [Frameworks](https://github.com/adambrgmn/SavedStuff#frameworks)
-005. [WordPress](https://github.com/adambrgmn/SavedStuff#wordpress)
-006. [Sketch](https://github.com/adambrgmn/SavedStuff#sketch)
-007. [Inspiration](https://github.com/adambrgmn/SavedStuff#inspiration)
-008. [General Resources](https://github.com/adambrgmn/SavedStuff#general-resources)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Typography](#typography)
+  - [Resources](#resources)
+  - [Typefaces](#typefaces)
+- [jQuery](#jquery)
+  - [Plugins](#plugins)
+- [Layout](#layout)
+  - [Centering](#centering)
+- [Frameworks](#frameworks)
+  - [Development](#development)
+- [WordPress](#wordpress)
+  - [Boilerplates](#boilerplates)
+  - [Tutorials](#tutorials)
+- [Sketch](#sketch)
+  - [Resources](#resources-1)
+- [Inspiration](#inspiration)
+- [General resources](#general-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Typography
 ### Resources
