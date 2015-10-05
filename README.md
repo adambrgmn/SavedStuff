@@ -54,6 +54,7 @@ A repository containing stuff I want to save for either further reading or furth
 
 ## Inspiration
 - [UI Movement](http://www.uimovement.com)
+- [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/)
 
 ## General resources
 - [Designer Mill](http://www.designermill.com)
