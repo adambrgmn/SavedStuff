@@ -30,6 +30,9 @@ A repository containing stuff I want to save for either further reading or furth
 ### Plugins
 - [Typeset.js – an HTML pre-processor for web typography](https://blot.im/typeset/?utm_source=designernews)
 
+### Resources
+- [jQuery tips everyone should know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
+
 
 ## Layout
 ### Centering
