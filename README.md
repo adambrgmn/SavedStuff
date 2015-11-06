@@ -2,11 +2,8 @@
 A repository containing stuff I want to save for either further reading or further development.
 
 ## Table of Contents
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
 - [Typography](#typography)
+- [Angular](#angular)
 - [jQuery](#jquery)
 - [Layout](#layout)
 - [Frameworks](#frameworks)
@@ -14,8 +11,6 @@ A repository containing stuff I want to save for either further reading or furth
 - [Sketch](#sketch)
 - [Inspiration](#inspiration)
 - [General resources](#general-resources)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Typography
 ### Resources
@@ -25,6 +20,12 @@ A repository containing stuff I want to save for either further reading or furth
 
 ### Typefaces
 - [Overpass Web Font](http://overpassfont.org/)
+
+
+## Angular
+### Resources
+- [AngularJS Styleguide](https://github.com/toddmotto/angularjs-styleguide)
+- [ng-book](https://www.ng-book.com/)
 
 
 ## jQuery
