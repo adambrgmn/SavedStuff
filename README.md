@@ -28,6 +28,8 @@ A repository containing stuff I want to save for either further reading or furth
 - [AngularJS Styleguide](https://github.com/toddmotto/angularjs-styleguide)
 - [ng-book](https://www.ng-book.com/)
 - [WGW (What Goes Where) guide](http://demisx.github.io/angularjs/2014/09/14/angular-what-goes-where.html)
+### Good read
+- [Anatomy of a large Angular application](https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994)
 
 
 ## jQuery
