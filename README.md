@@ -9,6 +9,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Frameworks](#frameworks)
 - [CMS](#cms)
 - [WordPress](#wordpress)
+- [Email](#email)
 - [Sketch](#sketch)
 - [Inspiration](#inspiration)
 - [General resources](#general-resources)
@@ -60,6 +61,10 @@ A repository containing stuff I want to save for either further reading or furth
 
 ### Tutorials
 - [My Tutorials On Building Themes With AngularJS and WP REST API](https://1fix.io/angularjs-wp-rest-api/)
+
+## Email
+### Responsive templates
+- [Cerberus - Patterns for Responsive HTML Email Templates](http://tedgoas.github.io/Cerberus/)
 
 ## Sketch
 ### Resources
