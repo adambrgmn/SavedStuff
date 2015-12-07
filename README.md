@@ -31,13 +31,17 @@ A repository containing stuff I want to save for either further reading or furth
 - [ng-book](https://www.ng-book.com/)
 - [WGW (What Goes Where) guide](http://demisx.github.io/angularjs/2014/09/14/angular-what-goes-where.html)
 - [Prerender.io](https://prerender.io/)
+- [Angular JS Cheat Sheet](https://egghead.io/articles/angularjs-core-services-directive-definition-object-and-ui-router-cheat-sheets?utm_campaign=linkplug&utm_source=linkplug&utm_medium=linkplug&utm_content=linkplug&utm_term=linkplug)
 
 ### Good read
 - [Anatomy of a large Angular application](https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994)
 
 ## React JS
+### Resources
+- [Este.js](https://github.com/este/este)
+
 ### Tutorials
-[Microblogging app with React and Flux](http://code.tutsplus.com/courses/build-a-microblogging-app-with-flux-and-react/lessons/application-demo)
+- [Microblogging app with React and Flux](http://code.tutsplus.com/courses/build-a-microblogging-app-with-flux-and-react/lessons/application-demo)
 
 
 ## jQuery
@@ -56,6 +60,8 @@ A repository containing stuff I want to save for either further reading or furth
 ### Development
 - [MEAN - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js.](http://mean.io/#!/)
 
+### CSS/SCSS
+- [Avalanche CSS grid system](https://github.com/colourgarden/avalanche?ref=webdesignernews.com)
 
 ## CMS
 ### PHP
@@ -85,3 +91,4 @@ A repository containing stuff I want to save for either further reading or furth
 - [Designer Mill](http://www.designermill.com)
 - [Stylesheets](https://stylesheets.co/)
 - [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
+- [Chillwave loader](http://varun.ca/chillwave/)
