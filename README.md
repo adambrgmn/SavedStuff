@@ -7,6 +7,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Angular JS](#angular-js)
 - [React JS](#react-js)
 - [jQuery](#jquery)
+- [Node.js](#nodejs)
 - [Layout](#layout)
 - [Frameworks](#frameworks)
 - [CMS](#cms)
@@ -55,6 +56,18 @@ A repository containing stuff I want to save for either further reading or furth
 
 ### Resources
 - [jQuery tips everyone should know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
+- [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
+
+
+## Node.js
+### Resources
+- [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
+- [Mastering Node](https://github.com/visionmedia/masteringnode)
+- [What are the best resources for learning node.js](https://www.quora.com/What-are-the-best-resources-for-learning-node-js?redirected_qid=18041)
+
+## Javascript
+### Plugins
+- [ScrollReveal](https://scrollrevealjs.org/)
 
 
 ## Layout
