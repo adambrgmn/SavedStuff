@@ -3,6 +3,7 @@ A repository containing stuff I want to save for either further reading or furth
 
 ## Table of Contents
 - [Typography](#typography)
+- [Javascript](#javascript)
 - [Node.js](#node-js)
 - [Angular JS](#angular-js)
 - [React JS](#react-js)
@@ -24,6 +25,10 @@ A repository containing stuff I want to save for either further reading or furth
 
 ### Typefaces
 - [Overpass Web Font](http://overpassfont.org/)
+
+
+## Javascript
+- [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 
 ## Node JS
