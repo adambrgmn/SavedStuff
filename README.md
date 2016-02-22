@@ -111,6 +111,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/)
 
 ## General resources
+- [Codepad](https://codepad.co/)
 - [Designer Mill](http://www.designermill.com)
 - [Stylesheets](https://stylesheets.co/)
 - [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
