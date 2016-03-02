@@ -23,6 +23,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Typography on the web — Resources & References](https://typographyontheweb.com/)
 - [The Best Free Alternatives to the Most Popular Fonts](http://blog.spoongraphics.co.uk/articles/the-best-free-alternatives-to-the-most-popular-fonts)
 - [101 Best Free Fonts, Fall 2015](http://www.webdesignerdepot.com/2015/10/101-best-free-fonts-fall-2015/)
+- [Top Font Pairing Tools And Font Combinations](http://line25.com/articles/top-font-pairing-tools-font-combinations)
 
 ### Typefaces
 - [Overpass Web Font](http://overpassfont.org/)
