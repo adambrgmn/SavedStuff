@@ -24,6 +24,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [The Best Free Alternatives to the Most Popular Fonts](http://blog.spoongraphics.co.uk/articles/the-best-free-alternatives-to-the-most-popular-fonts)
 - [101 Best Free Fonts, Fall 2015](http://www.webdesignerdepot.com/2015/10/101-best-free-fonts-fall-2015/)
 - [Top Font Pairing Tools And Font Combinations](http://line25.com/articles/top-font-pairing-tools-font-combinations)
+- [Open Foundry](http://open-foundry.com/)
 
 ### Typefaces
 - [Overpass Web Font](http://overpassfont.org/)
@@ -119,3 +120,4 @@ A repository containing stuff I want to save for either further reading or furth
 - [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
 - [Chillwave loader](http://varun.ca/chillwave/)
 - [Workmanship](http://workmanship.io/)
+- [Mapme](http://mapme.com/)
