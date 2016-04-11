@@ -72,6 +72,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
 - [Mastering Node](https://github.com/visionmedia/masteringnode)
 - [What are the best resources for learning node.js](https://www.quora.com/What-are-the-best-resources-for-learning-node-js?redirected_qid=18041)
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
 ## Javascript
 ### Plugins
