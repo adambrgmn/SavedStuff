@@ -33,6 +33,7 @@ A repository containing stuff I want to save for either further reading or furth
 ## Javascript
 - [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [JS Bits](https://github.com/vasanthk/js-bits)
+
 ### Resources
 - [DropzoneJS](http://www.dropzonejs.com/#)
 - [Select2](https://select2.github.io/)
