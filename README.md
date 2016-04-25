@@ -4,11 +4,10 @@ A repository containing stuff I want to save for either further reading or furth
 ## Table of Contents
 - [Typography](#typography)
 - [Javascript](#javascript)
-- [Node.js](#node-js)
+- [Node JS](#node-js)
 - [Angular JS](#angular-js)
 - [React JS](#react-js)
 - [jQuery](#jquery)
-- [Node.js](#nodejs)
 - [Css](#css)
 - [Frameworks](#frameworks)
 - [CMS](#cms)
@@ -17,6 +16,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Sketch](#sketch)
 - [Inspiration](#inspiration)
 - [General resources](#general-resources)
+
 
 ## Typography
 ### Resources
