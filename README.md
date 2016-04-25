@@ -9,7 +9,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [React JS](#react-js)
 - [jQuery](#jquery)
 - [Node.js](#nodejs)
-- [Layout](#layout)
+- [Css](#css)
 - [Frameworks](#frameworks)
 - [CMS](#cms)
 - [WordPress](#wordpress)
@@ -31,19 +31,25 @@ A repository containing stuff I want to save for either further reading or furth
 
 
 ## Javascript
+### Resources
 - [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [JS Bits](https://github.com/vasanthk/js-bits)
 
-### Resources
+### Plugins
 - [DropzoneJS](http://www.dropzonejs.com/#)
 - [Select2](https://select2.github.io/)
+- [ScrollReveal](https://scrollrevealjs.org/)
 
 
 ## Node JS
+### Resources
 - [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/) 
 - [Mastering Node](https://github.com/visionmedia/masteringnode) 
 - [What are the best resources for learning node.js](https://www.quora.com/What-are-the-best-resources-for-learning-node-js?redirected_qid=18041) 
-- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) 
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+
+### Deployment
+- [The Kick-Ass Guide to Deploying Nodejs Web Apps in Production](http://handyjs.org/article/the-kick-ass-guide-to-deploying-nodejs-web-apps-in-production) 
 
 
 ## Angular JS
@@ -73,20 +79,10 @@ A repository containing stuff I want to save for either further reading or furth
 - [jQuery tips everyone should know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
-
-## Node.js
+## CSS
 ### Resources
-- [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
-- [Mastering Node](https://github.com/visionmedia/masteringnode)
-- [What are the best resources for learning node.js](https://www.quora.com/What-are-the-best-resources-for-learning-node-js?redirected_qid=18041)
-- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [MaintainableCSS](http://maintainablecss.com/)
 
-## Javascript
-### Plugins
-- [ScrollReveal](https://scrollrevealjs.org/)
-
-
-## Layout
 ### Centering
 - [Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
 
@@ -109,8 +105,11 @@ A repository containing stuff I want to save for either further reading or furth
 - [My Tutorials On Building Themes With AngularJS and WP REST API](https://1fix.io/angularjs-wp-rest-api/)
 
 ## Email
-### Responsive templates
+### Responsive
+- [mjml](https://mjml.io/)
+- [Foundation for Emails 2](http://foundation.zurb.com/emails.html)
 - [Cerberus - Patterns for Responsive HTML Email Templates](http://tedgoas.github.io/Cerberus/)
+
 
 ## Sketch
 ### Resources
