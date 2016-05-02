@@ -14,6 +14,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [WordPress](#wordpress)
 - [Email](#email)
 - [Sketch](#sketch)
+- [SVG](#SVG)
 - [Inspiration](#inspiration)
 - [General resources](#general-resources)
 
@@ -34,6 +35,7 @@ A repository containing stuff I want to save for either further reading or furth
 ### Resources
 - [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [JS Bits](https://github.com/vasanthk/js-bits)
+- [You (probably) don't need a JavaScript framework](https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da)
 
 ### Plugins
 - [DropzoneJS](http://www.dropzonejs.com/#)
@@ -66,6 +68,8 @@ A repository containing stuff I want to save for either further reading or furth
 
 ## React JS
 ### Resources
+- [React/Redux Links](https://github.com/markerikson/react-redux-links/blob/master/README.md)
+- [How to better organize your React Applications](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.kcmmp55yo)
 - [Este.js](https://github.com/este/este)
 
 ### Tutorials
@@ -119,6 +123,9 @@ A repository containing stuff I want to save for either further reading or furth
 ## Sketch
 ### Resources
 - [Sketch Repo - Free, high quality Sketch resources](http://sketchrepo.com/)
+
+## SVG
+- [Boxy SVG](http://boxy-svg.com/main.html)
 
 
 ## Inspiration
