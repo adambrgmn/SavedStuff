@@ -134,6 +134,7 @@ A repository containing stuff I want to save for either further reading or furth
 
 
 ## General resources
+- [HEAD](https://github.com/joshbuchea/HEAD)
 - [Codepad](https://codepad.co/)
 - [Designer Mill](http://www.designermill.com)
 - [Stylesheets](https://stylesheets.co/)
