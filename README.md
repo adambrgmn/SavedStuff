@@ -88,6 +88,7 @@ A repository containing stuff I want to save for either further reading or furth
 ## CSS
 ### Resources
 - [MaintainableCSS](http://maintainablecss.com/)
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 
 ### Centering
 - [Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
