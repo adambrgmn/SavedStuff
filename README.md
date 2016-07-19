@@ -26,6 +26,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [101 Best Free Fonts, Fall 2015](http://www.webdesignerdepot.com/2015/10/101-best-free-fonts-fall-2015/)
 - [Top Font Pairing Tools And Font Combinations](http://line25.com/articles/top-font-pairing-tools-font-combinations)
 - [Open Foundry](http://open-foundry.com/)
+- [Typography Handbook](http://typographyhandbook.com/)
 
 ### Typefaces
 - [Overpass Web Font](http://overpassfont.org/)
@@ -36,6 +37,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [JS Bits](https://github.com/vasanthk/js-bits)
 - [You (probably) don't need a JavaScript framework](https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da)
+- [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers)
 
 ### Plugins
 - [DropzoneJS](http://www.dropzonejs.com/#)
@@ -88,6 +90,7 @@ A repository containing stuff I want to save for either further reading or furth
 ## CSS
 ### Resources
 - [MaintainableCSS](http://maintainablecss.com/)
+- [BEM & Atomic Design: A CSS Architecture Worth Loving](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving)
 
 ### Centering
 - [Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
@@ -125,6 +128,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Sketch Repo - Free, high quality Sketch resources](http://sketchrepo.com/)
 
 ## SVG
+- [A complete guide to SVG](http://surbhioberoi.com/a-complete-guide-to-svg/)
 - [Boxy SVG](http://boxy-svg.com/main.html)
 
 
@@ -142,3 +146,4 @@ A repository containing stuff I want to save for either further reading or furth
 - [Chillwave loader](http://varun.ca/chillwave/)
 - [Workmanship](http://workmanship.io/)
 - [Mapme](http://mapme.com/)
+- [Web Developer Checklist](http://webdevchecklist.com/)
