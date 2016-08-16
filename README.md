@@ -89,6 +89,7 @@ A repository containing stuff I want to save for either further reading or furth
 ### Resources
 - [MaintainableCSS](http://maintainablecss.com/)
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+- [OO front end framework](https://www.impression.co.uk/blog/4327/object-oriented-front-end-framework/)
 
 ### Centering
 - [Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
