@@ -93,6 +93,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [BEM & Atomic Design: A CSS Architecture Worth Loving](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving)
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 - [OO front end framework](https://www.impression.co.uk/blog/4327/object-oriented-front-end-framework/)
+- [CSSReflex](http://www.cssreflex.com/)
 
 ### Centering
 - [Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
@@ -149,3 +150,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Workmanship](http://workmanship.io/)
 - [Mapme](http://mapme.com/)
 - [Web Developer Checklist](http://webdevchecklist.com/)
+- [Up For Grabs](http://up-for-grabs.net/#/tags/JavaScript)
+- [75 of the Smartest Resources for Web Designers](https://cmd-t.webydo.com/75-of-the-best-resources-for-web-designers-98208e8709a#.258j149gn)
+- [Algebra Rules](http://algebrarules.com/)
+
