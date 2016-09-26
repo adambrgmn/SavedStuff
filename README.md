@@ -27,6 +27,7 @@ A repository containing stuff I want to save for either further reading or furth
 - [Top Font Pairing Tools And Font Combinations](http://line25.com/articles/top-font-pairing-tools-font-combinations)
 - [Open Foundry](http://open-foundry.com/)
 - [Typography Handbook](http://typographyhandbook.com/)
+- [Hand-picked type from Google Fonts](https://femmebot.github.io/google-type/)
 
 ### Typefaces
 - [Overpass Web Font](http://overpassfont.org/)
